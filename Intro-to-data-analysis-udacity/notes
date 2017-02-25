@@ -1,0 +1,15 @@
+1. Once the cleaning of data is done, then we come to the most important phase, i.e. Asking the questions which the data may or may not answer.
+
+2. Some of these questions may be very obvious and one may start off with these questions from the beginning, like in this case, What differentaites the students who complete their projects from those who don't and how much time a student takes to complete the project.
+
+3. There may be other question which may not be as obvious and these questions ariese, as you become more and more familiar with the data. One may not have started with these questions in the mind from the beginning but as we start the explorations, these questions come up. Like, pattern of time taken by a particular student to complete a series of projects.
+
+A few sample questions which can be asked are - 
+1. How much time an average student spends taking lessons?
+2. How the above time relates to number of lessons/projects completed?
+3. What is the relations between the time spent on a certain course and completing it's lessons/projects?
+4. Do lessons/projects completed occur in group or are scattered through different courses?
+5. What is the relation between cancelling an enrollment and number of lessons/courses taken?
+6. What is the distribtuion of activity(num of lessons visited/minutes visted) over lifetime of a typical user?
+7. What is the distribution of processing state/assigned rating of the submissions made?
+8. What are score of each lesson in term of favorability of students taking them?
