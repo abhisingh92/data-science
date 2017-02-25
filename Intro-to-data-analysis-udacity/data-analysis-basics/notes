@@ -13,3 +13,16 @@ A few sample questions which can be asked are -
 6. What is the distribtuion of activity(num of lessons visited/minutes visted) over lifetime of a typical user?
 7. What is the distribution of processing state/assigned rating of the submissions made?
 8. What are score of each lesson in term of favorability of students taking them?
+
+Gapmonder data - 
+The variables included in this data are as follows:
+1. Aged 15+ employement rate(%)
+2. Life Expectancy(years)
+3. GDP/capita(US$, inflation adjusted)
+4. Primary school completion(% of boys)
+5. Primary school completion(% of girls)
+
+Questions that can be asked - 
+1. What is the relation between Primary school completion and 15+ empiloyement rate?
+2. What is relation between GDP/capita and life expectancy?
+3. How is Life expectancy and employement rate connected?

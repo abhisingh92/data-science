@@ -1,0 +1,14 @@
+Gapminder data -
+The variables included in this data are as follows:
+1. Aged 15+ employement rate(%)
+2. Life Expectancy(years)
+3. GDP/capita(US$, inflation adjusted)
+4. Primary school completion(% of boys)
+5. Primary school completion(% of girls)
+
+Questions that can be asked -
+1. Trend of each of these variables over time for all the countries.
+2. Ranking a particular country w.r.t. to one of these variables and how that has changed over time.
+3. What is the relation between Primary school completion and 15+ empiloyement rate?
+4. What is relation between GDP/capita and life expectancy?
+5. How is Life expectancy and employement rate connected?
